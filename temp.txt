@@ -1,0 +1,40 @@
+<section class="spiritual">
+        <h2 class="heading">Spiritual</h2>
+        <div class="con_spi">
+            
+
+
+        </div>
+
+        <div class="spi_container">
+            <div class="spi_box">
+                <a target="_blank" href="t1.html">
+                    <img src="images/t1.jpg" alt="t1">
+                    <h3 style="color: aliceblue;">Chidambaram Kapaleeswarar, Chidambaram</h3>
+                </a>
+            </div>
+            <div class="spi_box">
+                <a target="_blank" href="t1.html">
+                    <img src="images/t1.jpg" alt="t1">
+                    <h3 style="color: aliceblue;">Chidambaram Kapaleeswarar, Chidambaram</h3>
+                </a>
+            </div>
+            <div class="spi_box">
+                <a target="_blank" href="t1.html">
+                    <img src="images/t1.jpg" alt="t1">
+                    <h3 style="color: aliceblue;">Chidambaram Kapaleeswarar, Chidambaram</h3>
+                </a>
+            </div>
+            <div class="spi_box">
+                <a target="_blank" href="t1.html">
+                    <img src="images/t1.jpg" alt="t1">
+                    <h3 style="color: aliceblue;">Chidambaram Kapaleeswarar, Chidambaram</h3>
+                </a>
+            </div>
+
+        </div>
+        <div class="butt">
+            <button class="button left" id="scrollLeft"><i class='bx bx-chevron-right bx-rotate-180'></i></button>
+            <button class="button right" id="scrollRight"><i class='bx bx-chevron-right'></i></button>
+        </div>
+    </section>
