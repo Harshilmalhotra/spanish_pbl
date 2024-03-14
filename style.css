@@ -73,7 +73,7 @@ section {
 
 }
 
-.con_spi {}
+
 
 .spi_container {
     /* display: grid;
@@ -167,7 +167,10 @@ section {
 
 .home {
     background-image: url(images/home.webp);
-
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: left;
     font-size: 50px;
     background-size: cover;
@@ -177,13 +180,27 @@ section {
 }
 .hills{
     background-image: url(images/hills.webp);
-
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: left;
     font-size: 50px;
     background-size: cover;
     padding-top: 60vh;
     font-size: 80px;
     font-weight: 800;
+
+}
+
+.intro{
+    background-image: url(images/train.webp);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+    
 
 }
 .welcome{
